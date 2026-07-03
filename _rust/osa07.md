@@ -9,7 +9,7 @@ redirect_from:
 ## Structit
 
 Structit koostuvat monesta muuttujasta.
-Muista lisätä `pub` sana struktin alkuun ja muuttujiin jos haluat julkistaa ne.
+Muista lisätä `pub` sana structin alkuun ja muuttujiin jos haluat julkistaa ne.
 ```rust
 struct Person {
     name: String,
@@ -27,7 +27,7 @@ fn main() {
 }
 ```
 
-Voit myös hajoittaa struktin osiinsa.
+Voit myös hajoittaa structin osiinsa.
 ```rust
 let Person { name, age, email } = bob; 
 ```

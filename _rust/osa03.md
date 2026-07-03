@@ -40,7 +40,7 @@ fn print_str(s: &str) {
 ```
 
 ### Metodit
-Tärkeimmät metodit ovat varmaankin `push_str`, jolla pusketaan stringiin merkkijonoreferenssi `&str` tai `push` jolla pusketaan merkki. Merkkijonot tajoavat vaikka mitä funktionaalisuutta, joita tällä kurssilla ei käsitellä. Netti on apuri näissä!
+Tärkeimmät metodit ovat varmaankin `push_str`, jolla pusketaan stringiin merkkijonoreferenssi `&str` tai `push` jolla pusketaan merkki. Merkkijonot tarjoavat vaikka mitä funktionaalisuutta, joita tällä kurssilla ei käsitellä. Netti on apuri näissä!
 
 
 ## char

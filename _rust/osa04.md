@@ -8,7 +8,7 @@ redirect_from:
 
 # Numerot ja booleanit
 
-## Aritmetiikka ja 
+## Aritmetiikka
 Kuten olet varmaankin jo huomannut, numeroilla ja booleaneilla voi tehdä aritmetiikkaa ja komparatioita kuten muissakin kielissä. Samat operaattorit pätee kuten esimerkiksi c:ssä
 
 ## Tyypit
